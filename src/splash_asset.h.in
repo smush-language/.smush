@@ -1,0 +1,7 @@
+#pragma once
+
+namespace smush::assets {
+
+inline constexpr const char* kSplashBBCode = R"SMUSH_SPLASH(@SMUSH_SPLASH_BBCODE@)SMUSH_SPLASH";
+
+}
